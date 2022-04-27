@@ -9,11 +9,9 @@
   <li>CSS</li>
   <li>JS</li>
       </ul>
-      <br>
    <h2>📂 La pagina consta de</h2>
       <ul>
   <li>Pagina de inicio</li>
-  <br>
   <p>Contiene un nav, una foto de fondo,una descripcion de la persona que usara la biblioteca y por ultimo un footer</p>
   <li>Primera pagina de Pdfs</li>
   <p>Contiene un nav, una foto de fondo,dos lineas con pdfs configurables y descargables y por ultimo un footer</p>
