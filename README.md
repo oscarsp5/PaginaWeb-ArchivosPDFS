@@ -10,7 +10,7 @@
   <li>JS</li>
       </ul>
       <br>
-   <h2>La pagina consta de</h2>
+   <h2>📂 La pagina consta de</h2>
       <ul>
   <li>Pagina de inicio</li>
   <br>
