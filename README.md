@@ -2,7 +2,7 @@
   <h2>Pagina Web Biblioteca de archivos PDFS</h2>
     Pagina web diseñada estilo biblioteca donde contendras los archivos PDFS que desees subir con opcion de descargarlos 
    
-   <h2>⌨ Esta pagina contiene codigo:</h2>
+   <h2>⌨ Este proyecto contiene codigo:</h2>
       <ul>
   <li>HTML</li>
   <li>CSS</li>
