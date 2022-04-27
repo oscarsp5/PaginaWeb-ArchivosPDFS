@@ -3,7 +3,7 @@
   <br>
     Pagina web diseñada estilo biblioteca donde contendras los archivos PDFS que desees subir con opcion de descargarlos 
    
-   <h2>⌨ Este codigo contiene </h2>
+   <h2>⌨ Esta pagina contiene codigo</h2>
       <ul>
   <li>HTML</li>
   <li>CSS</li>
