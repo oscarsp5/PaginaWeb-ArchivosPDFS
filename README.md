@@ -22,3 +22,10 @@
   <p>Contiene un nav, una foto de fondo,dos lineas con pdfs configurables y descargables y por ultimo un footer</p>
       </ul>
 
+<br>
+<footer>
+  
+  <h2>👤 Pagina creada por: oscarsp5 </h2>
+  
+</footer>
+<br>
