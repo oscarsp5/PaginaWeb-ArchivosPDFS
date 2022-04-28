@@ -25,7 +25,7 @@
 <br>
 <footer>
   
-  <h2>👤 Pagina creada por: oscarsp5 </h2>
+  <h2>👤 Pagina Web creada por: oscarsp5 </h2>
   
 </footer>
 <br>
